@@ -4,10 +4,10 @@ problem from https://qiita.com/e869120/items/eb50fdaece12be418faa#2-2-2-12-%E5%8
 
 Full search
 1
-http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja
+http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja　
 2
-https://atcoder.jp/contests/abc106/tasks/abc106_b
+https://atcoder.jp/contests/abc106/tasks/abc106_b　
 3
-https://atcoder.jp/contests/abc122/tasks/abc122_b
+https://atcoder.jp/contests/abc122/tasks/abc122_b　
 4
-https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c
+https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c　
