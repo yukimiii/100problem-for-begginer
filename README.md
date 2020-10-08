@@ -11,3 +11,15 @@ https://atcoder.jp/contests/abc106/tasks/abc106_b
 https://atcoder.jp/contests/abc122/tasks/abc122_b  
 4  
 https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c　　
+
+Full search with Ingenuity  
+5  
+https://atcoder.jp/contests/abc095/tasks/arc096_a  
+6  
+https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d  
+7  
+https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c  
+8  
+https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b  
+9  
+https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d
